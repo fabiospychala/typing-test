@@ -28,6 +28,7 @@ header {
   align-items: center;
   gap: 24px;
 }
+
 .absolute {
   position: absolute;
   top: 20px;
